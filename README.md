@@ -1,5 +1,5 @@
 # DIO
-Repositório utilizado para organizar a Modelagem do cenário projeto conceitual de Banco de dados - E-COMMERCE 
+Repositório utilizado para organizar a Modelagem do cenário projeto conceitual de Banco de dados - Universidade 
 desafios de código do DBXperience - Curso da Dio - (Ministrado pela Juliana Mascarenhas)
 
 ## Desafios de Código DIO
